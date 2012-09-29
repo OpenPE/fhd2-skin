@@ -1,4 +1,4 @@
-FHD2 Skin By Naser (Eminem) - Based On Gradient HD By Army
+FHD2 Skin By Naser (Eminem) - Based On Gradient HD Skin By Army
 =========
 
 Persian Professionals Official Website :
