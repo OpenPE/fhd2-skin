@@ -254,10 +254,10 @@ Gradient HD - Copyright (C) 2012 GPL-III by Army
       <convert type="FrontendInfo">BER</convert>
     </widget>
     <widget source="session.CurrentService" render="Label" borderWidth="2" position="216,680" size="563,21" backgroundColor="background" transparent="1" zPosition="5" foregroundColor="white" font="Regular; 18" valign="center" halign="center">
-      <convert type="pliExpertInfo">ServiceInfo</convert>
+      <convert type="PliExtraInfo">ServiceInfo</convert>
     </widget>
     <widget source="session.CurrentService" render="Label" position="216,654" size="430,24" backgroundColor="background" transparent="1" zPosition="5" foregroundColor="white" font="Regular; 18" valign="center" halign="left">
-      <convert type="pliExpertInfo">CryptoInfo</convert>
+      <convert type="PliExtraInfo">CryptoInfo</convert>
     </widget>
     <widget source="session.CurrentService" render="Label" position="838,533" zPosition="21" size="187,24" valign="center" halign="right" font="Regular; 18" transparent="1" backgroundColor="background">
       <convert type="pliCamdInfo">Camd</convert>
