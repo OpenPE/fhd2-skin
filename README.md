@@ -1,10 +1,10 @@
-FHD2 Skin By Naser (Eminem) - Based On Gradient HD Skin By Army
+FHD2 skin by Naser (Eminem) - Based on Gradient HD skin by Army
 =========
 
-Persian Professionals Official Website :
+Persian Professionals official website :
 
 https://pe4k.com
 
-Black Hole Official Website :
+Black Hole official website :
 
 http://www.vuplus-community.net
